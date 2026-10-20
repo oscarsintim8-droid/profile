@@ -7,9 +7,9 @@ const profile = {
     'I am an IT student at BlueCrest University College and the founder of Step Out, ' +
     'a retail venture selling clothing, shoes and appliances online and at market stalls. ' +
     'I enjoy turning ideas into working software that solves everyday problems in Ghana.',
-  location: 'Accra, Ghana',
-  email: 'your-email@example.com',
-  phone: '+233 00 000 0000',
+  location: 'Mataheko, Ghana',
+  email: 'oscarsintim8@gmail.com',
+  phone: '+233 59 33 255 73',
   skills: [
     { name: 'HTML & CSS', level: 90 },
     { name: 'JavaScript', level: 80 },
