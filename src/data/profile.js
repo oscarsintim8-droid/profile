@@ -2,7 +2,7 @@ const profile = {
   name: 'Oscar Sintim',
   title: 'IT Student & Entrepreneur',
   tagline: 'I build simple, useful digital tools and run Step Out, my retail business.',
-  photo: '/profile.svg', // replace with '/profile.jpg' after adding your photo to public/
+  photo: '/1.jpeg', // replace with '/profile.jpg' after adding your photo to public/
   about:
     'I am an IT student at BlueCrest University College and the founder of Step Out, ' +
     'a retail venture selling clothing, shoes and appliances online and at market stalls. ' +
